@@ -60,7 +60,7 @@ Executando o Jogo:
 ./so_long mapas/exemplo.ber
 ```
 
-##🕹️ Jogabilidade
+## 🕹️ Jogabilidade
 
 Utilize as seguintes teclas para movimentar o personagem principal:
 
